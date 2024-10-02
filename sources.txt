@@ -1,0 +1,5 @@
+https://compras.dados.gov.br/fornecedores/v1/fornecedores.json?id_cnae=1422300
+https://compras.dados.gov.br/fornecedores/v1/fornecedores.json?id_cnae=1414200
+https://compras.dados.gov.br/fornecedores/v1/fornecedores.json?id_cnae=1421500
+https://compras.dados.gov.br/fornecedores/v1/fornecedores.json?id_cnae=1412603
+https://compras.dados.gov.br/fornecedores/v1/fornecedores.json?id_cnae=1412602
